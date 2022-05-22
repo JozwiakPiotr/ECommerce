@@ -12,5 +12,6 @@ Simple app that simulates E-commerce service.
 - C#
 - ASP.NET Core
 - Entity Framework
+- JWT.Net
 - MSSQL
 - xUnit
